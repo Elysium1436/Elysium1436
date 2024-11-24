@@ -19,11 +19,11 @@
 
 
 <p >
-
 Bachelor in Computational Physics, currently working as a Software Engineer and Data Scientist.
 I'm mainly focused on python, since it has the best tools to unite backend development and AI tools. I can create web pages and develop a cloud infrastructure. Apart from python, I'm mostly a generalist when it comes to technology, and thus am quite versatile in the projects I can take. 
 </p>
 
+Grand Majority of my works are in other accounts in private repository for compliance reasons. For testament of my abilities, please look at the letters below and feel free to contact them for further proof.
 
 [Geplant Technologies Recommendation Letter](Letter_of_Recommendation_Bryan-Geplant.pdf)
 
