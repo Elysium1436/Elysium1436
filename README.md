@@ -25,6 +25,10 @@ I'm mainly focused on python, since it has the best tools to unite backend devel
 </p>
 
 
+[Geplant Technologies Recommendation Letter](Letter_of_Recommendation_Bryan-Geplant.pdf)
+[Professor and Mentor Recommendation Letter](recletter_assinado_bryan.pdf)
+
+
 
 ## Tech Stack<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
 
