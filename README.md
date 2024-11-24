@@ -26,6 +26,7 @@ I'm mainly focused on python, since it has the best tools to unite backend devel
 
 
 [Geplant Technologies Recommendation Letter](Letter_of_Recommendation_Bryan-Geplant.pdf)
+
 [Professor and Mentor Recommendation Letter](recletter_assinado_bryan.pdf)
 
 
